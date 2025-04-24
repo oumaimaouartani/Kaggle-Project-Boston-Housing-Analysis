@@ -4,4 +4,5 @@ In this project, we analyze the Boston Housing Dataset to predict the median val
 
 This GitHub repository serves as a redirection to my full project hosted on Kaggle.
 
-👉 [Click here to view the full notebook on Kaggle](https://[www.kaggle.com/yourusername/yourprojectname](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis))
+👉 [Click here to view the full notebook on Kaggle](https://[[www.kaggle.com/yourusername/yourprojectname](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis
+)))
