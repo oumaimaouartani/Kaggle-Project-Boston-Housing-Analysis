@@ -1,8 +1,20 @@
-# Kaggle-Project-Boston-Housing-Analysis
-In this project, we analyze the Boston Housing Dataset to predict the median value of owner-occupied homes (MEDV) using various regression techniques. The goal is to understand the relationships between the independent variables (features) and the dependent variable (MEDV) and derive actionable insights for policymakers or real estate stakeholders.
-# My Kaggle Project
+# 🏡 Boston Housing Analysis – Econometrics Project
 
-This GitHub repository serves as a redirection to my full project hosted on Kaggle.
+This repository serves as a pointer to my full data analysis and econometrics project on the **Boston Housing dataset**, hosted on Kaggle.
 
-👉 [Click here to view the full notebook on Kaggle](https://[[www.kaggle.com/yourusername/yourprojectname](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis
-)))
+The project includes:
+
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Multiple linear regression modeling  
+- Statistical inference and interpretation of results  
+
+📊 Developed as part of my coursework in **Econometrics**, this notebook demonstrates both technical and analytical skills in Python using libraries such as `pandas`, `matplotlib`, `seaborn`, `statsmodels`, and `scikit-learn`.
+
+---
+
+👉 **[Click here to view the full Kaggle notebook](https://www.kaggle.com/code/oumaimaouartani/econometrics-project-boston-housing-analysis)**  
+
+
+---
+
